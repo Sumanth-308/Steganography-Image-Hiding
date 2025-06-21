@@ -9,8 +9,8 @@ This project demonstrates how to hide a secret message inside an image using XOR
 
 ## 📁 Files
 - `steganography_project.ipynb` – Main notebook
+- - `images.jpeg` – Input image
 - `stego_output.png` – Output image
-- `images.jpeg` – Input image
 
 ## 💡 Output
 Decrypted message: `secret`
